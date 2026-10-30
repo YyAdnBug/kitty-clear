@@ -1,0 +1,4 @@
+.build/
+build/
+example/
+.DS_Store
